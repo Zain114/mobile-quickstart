@@ -4,11 +4,11 @@ from twilio.util import TwilioCapability
 import twilio.twiml
 
 # Account Sid and Auth Token can be found in your account dashboard
-ACCOUNT_SID = 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-AUTH_TOKEN = 'YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
+ACCOUNT_SID = 'ACcc9cd955a1da4e1f8d6da0aa4738f3af'
+AUTH_TOKEN = 'da93712d2014929043f32af3b3783add'
 
 # TwiML app outgoing connections will use
-APP_SID = 'APZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ'
+APP_SID = 'AP63c7a5e269996cd77061f8d81a8f0a7b'
 
 CALLER_ID = '+12345678901'
 CLIENT = 'jenny'
